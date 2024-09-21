@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Arcade Studio</title>
+        <description>Actualités de Arcade Studio.</description>
+        <lastBuildDate>Sat, 04 May 2024 18:20:01 GMT</lastBuildDate>
+        <link>https://www.arcade-studio.fr</link>
+        <item>
+            <title>Actualité N°1</title>
+            
+            <description>Premier jeu de Arcade Studio : Chute de fruits.</description>
+            <image>fruits.png</image>
+            <pubDate>Sat, 04 May 2024 18:20:01 GMT</pubDate>
+            <link>https://www.arcade-studio.fr</link>
+        </item>
+    </channel>
+</rss>
