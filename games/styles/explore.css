@@ -1,0 +1,64 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body{
+	font-family:Z003;
+	background-color: #fff;
+	font-size: 80%;
+}
+
+footer{
+	background-color: gray;
+	font-family: 'Courier New', Courier, monospace;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	padding-top:2em;
+	padding-bottom:2em;
+	text-indent: 1em;
+}
+
+h1{
+	font-size: 3em;
+}
+
+h2{	
+	text-align:center;
+	margin-top:-1em;
+	font-size: 29px;
+	padding: 2em;
+	cursor: pointer;
+}
+
+#cdf {
+	border: dashed black;
+	height:20em;
+	border-radius:5em;
+}
+
+#actualités{
+	margin-left:10em;
+}
+
+#input {
+	height: 2em;
+	align-self: center;
+	right: 2%;
+	position: absolute;
+}
+
+.themes {
+	height: 4em;
+}
+
+h2 {
+	border: 2px solid black;
+	display: table;
+	border-radius: 10%;
+}
+
+#aj {
+	display: inline-flex;
+}
