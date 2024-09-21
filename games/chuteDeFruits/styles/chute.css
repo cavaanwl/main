@@ -1,0 +1,113 @@
+#gg{  border-radius: 10px;
+  text-align: center;
+  margin-right: 60em;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 35%;
+  height: 52px;
+  margin-left: -34px;
+  margin-top: -24px;
+}
+#play{	border-radius: 10px;
+		text-align: center;
+		margin-right: 60em;
+		cursor: pointer;
+		position: absolute;
+   		 left: 50%;
+   		 top: 50%;
+  		 width: 68px;
+    	 	height: 48px;
+   		 margin-left: -34px;
+		 margin-top: -24px;
+}
+.play:hover{	box-shadow:5px 8px #ccc;
+}
+
+ .fruits{text-align: center;
+		position: absolute;
+		margin: auto;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		cursor: text;
+		border:1px solid black;
+		border-radius: 5px;
+}
+.fj{	text-align: center;
+		position: absolute;
+		margin: auto;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		cursor: text;
+}
+
+video{	
+		text-align: center;
+		position: absolute;
+		margin: auto;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+		cursor: text;
+		width: 844px;
+    	height: 527px;
+}
+
+.skype{	
+		text-align: center;
+		margin-right: 60em;
+		cursor: pointer;
+		position: absolute;
+   		left: 70.25%;
+   		top: 55%;
+  		width: 68px;
+    		height: 65px;
+   		margin-left: -34px;
+		margin-top: -24px;
+		background: #00000075;
+		border: 1px solid gray;
+		border-radius: 15px;
+		color:#fff;
+}
+
+#groupe{	
+		position: fixed; 
+ 		top: 0; 
+ 		left: 0; 
+ 		min-width: 100%;
+		min-height: 100%;
+}
+
+.j{
+		text-align: center;
+		position: absolute;
+		margin: auto;
+		top: 0;
+		right: 0;
+		bottom: 0;
+		left: 0;
+}
+
+.img {
+	width: 50px;
+	position: fixed;
+}
+
+#game {
+	margin-top:10em;
+}
+
+#panier {
+	margin-top:30em;
+	width:100px;
+	z-index: 2;
+}
+
+#compte {
+	display: inline-flex;
+}
