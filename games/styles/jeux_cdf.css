@@ -1,0 +1,24 @@
+body{	width:835px;
+		height:520px;
+		text-align:center;
+		top:50%;
+		right:50%;
+		left:50%;
+}
+.imgs{  border-radius: 10px;
+  text-align: center;
+  margin-right: 60em;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 0%;
+  height: 7.5%;
+  margin-left: -34px;
+  margin-top: -24px;
+}
+
+#debut{ text-align:center;
+}
+#dem{
+text-align:center;
+}
