@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
     <channel>
-        <title>Arcade Studio</title>
-        <description>Actualités de Arcade Studio.</description>
+        <title>Cavaanwl</title>
+        <description>Actualités de Cavaanwl.</description>
         <lastBuildDate>Sat, 04 May 2024 18:20:01 GMT</lastBuildDate>
-        <link>https://www.arcade-studio.fr</link>
+        <link>https://cavaanwl.github.io/main/games/chuteDeFruits/chute%20de%20fruits.html</link>
         <item>
-            <title>Actualité N°1</title>
-            
-            <description>Premier jeu de Arcade Studio : Chute de fruits.</description>
+            <title>Chute de fruits</title>
+            <description>Premier jeu de Cavaanwl : Chute de fruits. Ce je consitste à déplacer un pagner pour attraper des fruits. Au début, vous avez une vie. Il faut gagner 10 points pour gagner. durant la partie, il faudra éviter les bombes qui vous feront perdre une vie. Les logos SNCF vous feront gagner une vie.</description>
             <image>fruits.png</image>
             <pubDate>Sat, 04 May 2024 18:20:01 GMT</pubDate>
-            <link>https://www.arcade-studio.fr</link>
+            <link>https://cavaanwl.github.io/main/games/chuteDeFruits/chute%20de%20fruits.html</link>
         </item>
     </channel>
 </rss>
