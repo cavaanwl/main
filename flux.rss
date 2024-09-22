@@ -8,7 +8,11 @@
         <item>
             <title>Chute de fruits</title>
             <description>Premier jeu de Cavaanwl : Chute de fruits. Ce je consitste à déplacer un pagner pour attraper des fruits. Au début, vous avez une vie. Il faut gagner 10 points pour gagner. durant la partie, il faudra éviter les bombes qui vous feront perdre une vie. Les logos SNCF vous feront gagner une vie.</description>
-            <media:content width="632" height="395" url="https://cavaanwl.github.io/main/images/fruits.png">
+              <image>
+                <url>https://cavaanwl.github.io/main/images/fruits.png</url>
+                <title>Image de fruits</title>
+                <link>https://cavaanwl.github.io/main/games/chuteDeFruits/chute%20de%20fruits.html</link>
+              </image>
             <pubDate>Sat, 04 May 2024 18:20:01 GMT</pubDate>
             <link>https://cavaanwl.github.io/main/games/chuteDeFruits/chute%20de%20fruits.html</link>
         </item>
