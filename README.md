@@ -7,4 +7,4 @@ Idées et graphique par Calixte ;
 Idées et codage Antonin ;  
 Direction Calixte et Antonin.  
   
-[Voir le site](https://cavaanwl.github.io/main/index.html).
+[Voir le site](https://cavaanwl.github.io/main/index.html)
