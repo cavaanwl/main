@@ -10,6 +10,10 @@ function go() {
         window.location.href="https://www.google.fr/logos/2010/pacman10-hp.html#bg=black";
     }
     
+    else if (recup==="space invader") {
+        window.location.href="https://space-invaders.game-files.crazygames.com/space-invaders/2/index.html";
+    }
+    
     else {
         window.location.href="games/"+recup+".html";
     }
