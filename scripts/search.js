@@ -11,7 +11,7 @@ function go() {
     }
     
     else if (recup==="space invader") {
-        window.location.href="https://space-invaders.game-files.crazygames.com/space-invaders/2/index.html";
+        window.location.href="https://games.crazygames.com/fr_FR/space-invaders/index.html?v=1.303";
     }
     
     else {
