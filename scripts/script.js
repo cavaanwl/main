@@ -1,5 +1,7 @@
 console.log("Script ajouté avec succes.");
-
+function easteregg() {
+	window.location.href="games/eastereggs/index.html";
+}
 function over(id1) {
 	console.log(1);
 	document.getElementById("d"+id1).setAttribute("open", "");
