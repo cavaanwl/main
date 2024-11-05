@@ -3,7 +3,11 @@ console.log("search.js added");
 function go() {
     var recup = document.getElementById("input").value;
     if (recup==="Chute de fruits") {
-        window.location.href="games/chuteDeFruits/chute de fruits.html";
+        window.location.href="games/chuteDeFruits";
+    }
+
+     else if (recup==="Memory") {
+        window.location.href="games/memory";
     }
     
     else if (recup==="pacman") {
