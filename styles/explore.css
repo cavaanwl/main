@@ -59,7 +59,11 @@ h2 {
 	border-radius: 10%;
 }
 
-#aj, #jaoj {
+#jaoj {
+	display: block ruby;
+}
+
+#aj {
 	display: inline-flex;
 }
 
