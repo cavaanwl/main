@@ -7,6 +7,6 @@ Idées et graphique par Calixte ;
 Idées et codage Antonin ;  
 Direction Calixte et Antonin.  
   
-[Voir le site](https://cavaanwl.github.io/main/index.html)  
+[Voir le site](https://cavaanwl.github.io/games/)  
 
 [Nous contacter](mailto:arcade.studio.jeux@gmail.com)
