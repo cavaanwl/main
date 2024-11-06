@@ -20,12 +20,12 @@
             <title>Memory</title>
             <description>Deuxième jeu de Cavaanwl : Memory.</description>
               <image>
-                <url>https://cavaanwl.github.io/main/images/memory.png</url>
+                <url>https://cavaanwl.github.io/games/images/memory.png</url>
                 <title>Memory</title>
-                <link>https://cavaanwl.github.io/main/games/memory</link>
+                <link>https://cavaanwl.github.io/games/games/memory</link>
               </image>
             <pubDate>Wed, 06 nov 2024 16:35:01 GMT</pubDate>
-            <link>https://cavaanwl.github.io/main/games/memory</link>
+            <link>https://cavaanwl.github.io/games/games/memory</link>
         </item>
     </channel>
 </rss>
