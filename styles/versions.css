@@ -1,0 +1,16 @@
+html {
+	scroll-behavior: smooth;
+}
+
+body{
+	background-color: #ffffff;
+	font-size: 80%;
+}
+
+h1 {
+	text-align:center;
+}
+
+li {
+	margin-left:3em;
+}
