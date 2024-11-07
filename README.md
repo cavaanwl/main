@@ -10,3 +10,5 @@ Direction Calixte et Antonin.
 [Voir le site](https://cavaanwl.github.io/games/)  
 
 [Nous contacter](mailto:arcade.studio.jeux@gmail.com)
+
+[Note de versions](https://cavaanwl.github.io/games/versions.html)
