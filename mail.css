@@ -1,0 +1,18 @@
+#envoyer {
+	border-radius: 5px;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 5px 15px;
+	cursor: pointer;
+	background: linear-gradient(to right, #c99e4e, #eb9526);
+	border: solid 2px #5c3a1a;
+	color: #4b2913;
+	margin-right: 40%;
+	margin-left: 40%;
+}
+
+#nomcontact{margin-left: 2em;border-radius:15px;}
+#prenom{margin-left: 8px;border-radius:15px;}
+#emailcontact{margin-left: 25px;border-radius:15px;}
+#messagecontact{border-radius:5px;width: 328px; height: 120px;}
+.case{border-radius:150px;text-align:center;border: solid 5px black;margin-left: 20em;margin-right: 20em;}
